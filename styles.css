@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+}
+
+div {
+    background-color: lightslategray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    background-color: tomato;
+    color: black;
+    font-size: large;
+}
+
+li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 8px;
+}
